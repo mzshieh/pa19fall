@@ -1,7 +1,7 @@
 # Introduction to Python Applications, 2019 Spring
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: [陳達仁](mailto:c910335@gmail.com) c910335@gmail.com
++   Teaching Assistants: [黃品曄](mailto:lgthbo@gmail.com) lgthbo@gmail.com
 
 ## Course Objectives
 
@@ -17,9 +17,9 @@
     +   Python 3: [Official Documents](https://docs.python.org/3/)
     +   PyAutoGUI: [Documents](https://pyautogui.readthedocs.io/en/latest/)
 +   OpenCV: [Documents](https://docs.opencv.org/)
-+	[How to send email attachment](https://stackoverflow.com/questions/3362600/how-to-send-email-attachments)
 +	[Telegram](https://telegram.org/)
     +	[telegram-send](https://pypi.org/project/telegram-send/)
++	[How to send email attachment](https://stackoverflow.com/questions/3362600/how-to-send-email-attachments)
 
 ## Python Lecture Notes
 
@@ -32,9 +32,8 @@
 ### Python package installation
 
 + [Reference (installed on PC4 classroom)](https://hackmd.io/Y-nIHhTrTyW8B42vH14YYw)
-+ [Mac OS X](https://hackmd.io/s/S1WCZqluE)
 
-## Term Poject
+## Term Poject (2019 Spring)
 
 1. A game agent using `pyautogui` and `opencv`
 	+ Candidate 1: [焼き鳥奉行](http://games.twtop.net/fgameplay.php?id=2424)
