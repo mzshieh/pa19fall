@@ -32,6 +32,7 @@
 ### Python package installation
 
 + [Reference (installed on PC4 classroom)](https://hackmd.io/Y-nIHhTrTyW8B42vH14YYw)
++ [Mac OS X](https://hackmd.io/s/S1WCZqluE)
 
 ## Term Poject (2019 Spring)
 
