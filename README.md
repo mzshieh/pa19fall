@@ -34,30 +34,20 @@
 + [Reference (installed on PC4 classroom)](https://hackmd.io/Y-nIHhTrTyW8B42vH14YYw)
 + [Mac OS X](https://hackmd.io/s/S1WCZqluE)
 
-## Term Poject (2019 Spring)
+## Term Poject
 
 1. A game agent using `pyautogui` and `opencv`
-	+ Candidate 1: [焼き鳥奉行](http://games.twtop.net/fgameplay.php?id=2424)
-		+ At least 300 seconds gameplay
-		+ Achieve at least 3 times in top two levels.
+	+ Candidate 1: [數學天才計算題](https://gamekuo.com/html5/3963_math-genius-games)
+		+ 3 continuous game play
+			+ At least 30 correct answers
+			+ 0 incorrect answer
+	+ Candidate 2: [迴轉壽司店](http://www.deliriouschef.com/zh/日本/壽司店.html)
+		+ Pass the first stage
 	+ You can choose a game from websites like [this](http://games.twtop.net/) or [www.i-gamer.net](https://www.i-gamer.net/) with the instructor's permission.
     + [ToolKit Manual](https://hackmd.io/s/B1LbJaRjm)
-    + [Submit](https://forms.gle/uwttX6awhZjH74JY9) your video link, source 
-codes and resources.
-    + Deadline: 23:59:59, 9 May, 2019
+    + Deadline: 23:59:59, 28 Nov, 2019
 2. A game using chatbot.
 	+ [Material](https://hackmd.io/s/HkgaMUc24)
-	+ Candidate 1: Bull and Cows
-		+ Force users to guess at least 7 times.
-		+ Cheating is a must.
-		+ Cheating must not be caught.
-	+ Candidate 2: Rock-Paper-Scissors
-		+ There are three kinds of cards: rock cards, paper cards, scissor cards.
-		+ The chatbot issues 5 cards to each of the player and the chatbot.
-		+ The cards must be revealed at the beginning.
-		+ The chatbot must win if it is winnable.
-    + [Submit](https://forms.gle/Amuc499X6PNu1cro9) your video link, source 
-	+ Deadline: 23:59:59, 27 June, 2019
 
 ## Grading Policy
 
