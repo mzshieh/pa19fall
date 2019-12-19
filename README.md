@@ -29,6 +29,7 @@
 + [Lecture 4](https://hackmd.io/s/S17MXDc3N)
 + [Lecture 5](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/B1SFdDye4?type=view)
 + [TA's slide](https://docs.google.com/presentation/d/1cY1txnYrNFKjYwyFOOAhwoqIJyra4fBt0wo-1A3_DNI/edit?usp=sharing)
++ [MZ's notes on selenium for term project](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/Byn7todAH)
 
 ### Python package installation
 
