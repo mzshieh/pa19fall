@@ -28,6 +28,7 @@
 + [Lecture 3](https://hackmd.io/s/HJmvTOrcV)
 + [Lecture 4](https://hackmd.io/s/S17MXDc3N)
 + [Lecture 5](https://hackmd.io/@BpUgvpG2TZy_PvDRF1bwvw/B1SFdDye4?type=view)
++ [TA's slide](https://docs.google.com/presentation/d/1cY1txnYrNFKjYwyFOOAhwoqIJyra4fBt0wo-1A3_DNI/edit?usp=sharing)
 
 ### Python package installation
 
